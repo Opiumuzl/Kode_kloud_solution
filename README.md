@@ -5,11 +5,11 @@ Here you can see solutions to some tasks with kodekloud.
 Every tasks i will be post separate file.
 All Files be a structuring:
 
-Taskname/\n
-├── Task/\n
-│   └── Task text\n
-|\n
-└── Solution\n
-    ├── block history\n
-    ├── comments\n
+Taskname/
+├── Task/
+│   └── Task text
+|
+└── Solution
+    ├── block history
+    ├── comments
 
